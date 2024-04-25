@@ -1,2 +1,6 @@
-# tips_and_tricks
+# Liechti Consulting
+
+## Tips & tricks
+
+
 Some tips and tricks, learned along the way
